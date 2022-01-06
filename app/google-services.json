@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271765981117",
+    "project_id": "mathopedia-b1ac9",
+    "storage_bucket": "mathopedia-b1ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271765981117:android:0bf5ad5b5d164ba641b4d4",
+        "android_client_info": {
+          "package_name": "com.example.mathopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271765981117-i5ja5pbgmeg2gfs47n6og22akjn7dn37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvHxuWXMJpjSniY4z_SAv5ma9-Us_6b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271765981117-i5ja5pbgmeg2gfs47n6og22akjn7dn37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

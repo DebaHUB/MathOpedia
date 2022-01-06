@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mathopedia">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MathOpedia">
+        <activity
+            android:name=".Forget_pass_1"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Vectors"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Trigonometric_functions"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Sequence_series"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Relations_functions"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Probability"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Permutations_combinations"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Matrices"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Geometry"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Limits_derivatives"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Integrals"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Differential_equations"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Conic_sections"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Complex_numbers"
+            android:exported="true" />
+        <activity
+            android:name=".chapters.Binomial_theorem"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".Registration"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

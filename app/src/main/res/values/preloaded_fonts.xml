@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/andada</item>
+        <item>@font/arizonia</item>
+        <item>@font/fontdiner_swanky</item>
+        <item>@font/alegreya_sc</item>
+        <item>@font/poppins_light</item>
+        <item>@font/poppins_medium</item>
+    </array>
+</resources>

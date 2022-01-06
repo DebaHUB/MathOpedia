@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/font/alegreya_sc.xml" value="0.284375" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/font/poppins_light.xml" value="0.284375" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/font/poppins_medium.xml" value="0.284375" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_about_screen.xml" value="0.13020833333333334" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_binomial_theorem.xml" value="0.1" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_complex_numbers.xml" value="0.20962199312714777" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_conic_sections.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_differential_equations.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_forget_pass1.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_geometry.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_integrals.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_limits_derivatives.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_matrices.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_permutations_combinations.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_probability.xml" value="0.20962199312714777" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_relations_functions.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_sequence_series.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_trigonometric_functions.xml" value="0.1863306605574647" />
+        <entry key="..\:/PROJECTS/ANDROIDSTUDIO/MathOpedia/app/src/main/res/layout/activity_vectors.xml" value="0.20962199312714777" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
