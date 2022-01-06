@@ -18,4 +18,4 @@ Scope:
 
 E-learning is the most emerging trend among students these days. Students tend to spend most of their time on electronic gadgets like smartphones, laptops, etc., and keep books at bay. Keeping this growing trend in mind, it is really necessary to engage students in learning, whilst using their electronic fantasies. When it comes to learning mathematics, we must understand that many students stereotype it as a boring and painful subject. That’s why e-learning is becoming more and more popular as it opens door to a worldwide of mathematics that is fun and exciting. Thus, this app can prove to be a great tool for users to learn and practice on the go.
 
-Github branch loation: Master branch
+Github branch location: Master branch
