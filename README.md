@@ -14,6 +14,7 @@ The objectives of this application are:
 To help high school (+2) level students find important math-related topics for exam purposes.
 To provide chapter-wise topic documentation for easy understanding and analysis.
 To show the most important math topics carrying higher weightage in competitive exams.
+
 Scope:
 
 E-learning is the most emerging trend among students these days. Students tend to spend most of their time on electronic gadgets like smartphones, laptops, etc., and keep books 
